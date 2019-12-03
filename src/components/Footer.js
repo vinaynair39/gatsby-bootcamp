@@ -6,6 +6,7 @@ const Footer = () => {
         <div>
             <p>© 2019 Tamiser Advisors (P) Ltd.</p>
             <p>Facebook</p>
+            <p></p>
         </div>
     );
 }

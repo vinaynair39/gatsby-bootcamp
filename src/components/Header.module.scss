@@ -1,3 +1,16 @@
+$grey: #999999;
+
 .link{
     color: #999999;
+}
+.menu{
+    display: flex;
+    margin-right: 3rem;
+    & a{
+        margin-right: 1rem; 
+        color: salmon;
+        &:focus{
+            color: #455577;
+        }
+    }
 }
